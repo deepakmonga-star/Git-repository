@@ -1,1 +1,4 @@
-s This is a current session
+Hloo this is a current session
+
+I am finally learning GIT
+
